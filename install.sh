@@ -8,9 +8,9 @@ pip install system
 
 cd 
 
-rm -rif .bashrc
+#rm -rif .bashrc
 
-cd /XTOOL
+cd XTOOL
 
 mv .kk /data/data/com.termux/files/home
 
