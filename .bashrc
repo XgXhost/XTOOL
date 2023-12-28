@@ -1,3 +1,3 @@
 clear
-echo "السلام عليكم "
+echo "hi bro 👀"
 python .kk
